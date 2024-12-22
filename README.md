@@ -2,7 +2,7 @@
 
 A fun and interactive two-player dice game built with **HTML**, **CSS**, and **Vanilla JavaScript**. Players take turns rolling the dice to accumulate points, but watch out—rolling a `1` resets your current score! The first player to reach the target score wins.
 
-![Dice Game Screenshot]([https://imgur.com/a/iFtVWJZ](https://imgur.com/a/iFtVWJZ))
+<img src="https://github.com/magdalenalapinska/dice-game/blob/main/dice-game-screenshot.png?raw=true" alt="dice game screenshot"/>
 
 ## 🚀 Features
 - **Two-Player Mode:** Alternate turns between Player 1 and Player 2.
